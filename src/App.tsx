@@ -92,7 +92,7 @@ function App() {
                 <ResumeCardItem>
                   <Typography>2017 - 2021</Typography>
                   <Typography fontWeight="bold">
-                    Bachelor's Degree JAVAD_MAJOR
+                    Bachelor's Degree Computer Engineering
                   </Typography>
                   <Typography>Tehran University</Typography>
                 </ResumeCardItem>
@@ -114,13 +114,13 @@ function App() {
                 radius={{ bottomLeft: true }}
                 title="Contact"
               >
-                <ResumeCardItem>
+                {/* <ResumeCardItem>
                   <Typography fontWeight="bold">Phone</Typography>
                   <Typography>JAVAD_PHONE</Typography>
-                </ResumeCardItem>
+                </ResumeCardItem> */}
                 <ResumeCardItem>
                   <Typography fontWeight="bold">Email</Typography>
-                  <Typography>JAVAD_EMAIL</Typography>
+                  <Typography>vahedi.r46@gmail.com</Typography>
                 </ResumeCardItem>
                 <ResumeCardItem>
                   <Typography fontWeight="bold">Address</Typography>

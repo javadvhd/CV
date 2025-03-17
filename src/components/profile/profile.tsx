@@ -27,7 +27,7 @@ export function Profile({ sx, className }: Props) {
         </WithBorderBottom>
 
         <Typography variant="body1" textAlign="left">
-          Hello! I am Javad Vahedi, a skilled software developer with six years of experience specializing in React and TypeScript. Proven expertise in addressing complex challenges, demonstrated through work on a large-scale messenger project involving communication services (meet, call, classroom, live), stories, chat, WebSocket, IndexedDB, and Redux. Known for a detail-oriented and collaborative approach, delivering accurate solutions efficiently while excelling in problem-solving and adaptability.
+          Hello! I am Javad Vahedi, a skilled software developer with five years of experience specializing in React and TypeScript. Proven expertise in addressing complex challenges, demonstrated through work on a large-scale messenger project involving communication services (meet, call, classroom, live), stories, chat, WebSocket, IndexedDB, and Redux. Known for a detail-oriented and collaborative approach, delivering accurate solutions efficiently while excelling in problem-solving and adaptability.
         </Typography>
       </Grid2>
     </Grid2>

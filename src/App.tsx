@@ -26,7 +26,7 @@ function App() {
                 <ResumeCardItem>
                   <ExperienceItem>
                     <Typography component="pre">
-                      {"Jan, 2021 - present \n Weblite"}
+                      {"Jan, 2020 - present \n Weblite"}
                     </Typography>
                     <ExperienceItemDesc>Front end developer</ExperienceItemDesc>
                   </ExperienceItem>

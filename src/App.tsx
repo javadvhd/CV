@@ -209,7 +209,7 @@ const projects: Project[] = [
     company: "Tosee Ertebatate Asre Rosha",
     desc: "Conducting multiple-choice and descriptive exams. Viewing the answer sheet after completing the exam and automatically calculating students' scores.",
     image: {
-      src: "/images/general-exam.jpeg",
+      src: "./images/general-exam.jpeg",
       width: 146,
       height: 260,
     },

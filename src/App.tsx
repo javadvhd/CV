@@ -53,7 +53,6 @@ function App() {
                       "WebSocket",
                       "ReactJS",
                       "Mui-Material",
-                      "NextJS",
                       "CSS/SCSS",
                     ]}
                   />
